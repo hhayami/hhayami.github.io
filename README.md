@@ -4,7 +4,7 @@ HTML / CSS / JavaScript を使って構築しています。
 
 ## 🌐 ライブデモ
 作成したサイトはこちらからご覧いただけます！
-👉 [https://hhayami.github.io/](https://hhayamai.github.io/)
+👉 [https://hhayami.github.io/](https://hhayami.github.io/index.html)
 
 ## ✨ このサイトでできること・特徴
 * **レスポンシブデザイン**: スマホでもPCでも綺麗に見えます（を目指しています！）。
